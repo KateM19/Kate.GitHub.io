@@ -14,7 +14,7 @@ Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5
 
 
 
-### Skills Summary 
+# Skills Summary 
 
 - SQL 
 - R 
