@@ -3,7 +3,7 @@
 I am MSIS candidate 2020 with excellent ability to produce insights using statistical procedures, data science 
 techniques, as well as effective communication skills with both business and technical teams. 
  
-### Education 
+# Education 
 
 # San Diego State University, Fowler College of Business #                 
 Master of Science, Information Systems, Candidate 
@@ -33,6 +33,9 @@ Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+<h2>HTML Image</h2>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
