@@ -5,10 +5,10 @@ techniques, as well as effective communication skills with both business and tec
  
 ### Education 
 
-San Diego State University, Fowler College of Business                  
+# San Diego State University, Fowler College of Business #                 
 Master of Science, Information Systems, Candidate 
 
-Moscow Technological University, Cybernetics department                                                    
+# Moscow Technological University, Cybernetics department #                                                   
 Master of Science, Applied Mathematics and Informatics,     GPA: 3.9                              
 Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5 
 
@@ -16,11 +16,19 @@ Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5
 
 ### Skills Summary 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- SQL 
+- R 
+- Python 
+- HTML/PHP/CSS 
+- Data Visualization 
+- Statistical Learning 
+- Data Mining 
+- Data Analysis 
+- Windows Operating System 
+- Microsoft SQL Server 
+- Strong communicational skills 
+- Organizational/Management skills
+ 
 
 **Bold** and _Italic_ and `Code` text
 
