@@ -3,9 +3,9 @@
 I am MSIS candidate 2020 with excellent ability to produce insights using statistical procedures, data science 
 techniques, as well as effective communication skills with both business and technical teams. 
  
-# Education 
+ <b> Education </b> 
 
-# San Diego State University, Fowler College of Business #                 
+<b> San Diego State University, Fowler College of Business </b>                
 Master of Science, Information Systems, Candidate 
 
 <b> Moscow Technological University, Cybernetics department </b>                                                   
@@ -14,7 +14,7 @@ Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5
 
 
 
-# Skills Summary 
+<b> Skills Summary </b>
 
 - SQL 
 - R 
