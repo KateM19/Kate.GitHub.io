@@ -29,6 +29,9 @@ Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5
 - Strong communicational skills 
 - Organizational/Management skills
  
+ 
+ <img src="pic_trulli.jpg" alt="Italian Trulli">
+
 
 **Bold** and _Italic_ and `Code` text
 
