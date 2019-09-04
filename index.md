@@ -30,16 +30,13 @@ Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5
 - Organizational/Management skills
  
  
- <img src="pic_trulli.jpg" alt="Italian Trulli">
+
 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link] (https://www.voiceofsandiego.org/wp-content/uploads/2018/04/VOSD_SDSU-9-of-11-800x558.jpg) and ![Image](src)
 
-<h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
