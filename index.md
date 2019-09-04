@@ -3,7 +3,7 @@
 I am MSIS candidate 2020 with excellent ability to produce insights using statistical procedures, data science 
 techniques, as well as effective communication skills with both business and technical teams. 
  
- ![GitHub Logo](/images/logo.png)
+ ![GitHub Logo](https://github.com/KateM19/Kate.GitHub.io.wiki.git)
 Format: ![Alt Text](url)
  
 ## Education
