@@ -1,16 +1,16 @@
 # Kate.GitHub.io
-## Welcome to my page
+<h1><strong> Welcome to my page </h1></strong>
 <body>
-I am MSIS candidate 2020 with excellent ability to produce insights using statistical procedures, data science 
-techniques, as well as effective communication skills with both business and technical teams. 
+<br>I am MSIS candidate 2020 with excellent ability to produce insights using statistical procedures, data science 
+techniques, as well as effective communication skills with both business and technical teams.</br>
  
 ![GitHub Logo](https://images-na.ssl-images-amazon.com/images/I/613ES-H4YKL._SX466_.jpg)
-
+Format: ![Alt Text](https://images-na.ssl-images-amazon.com/images/I/613ES-H4YKL._SX466_.jpg)
  
-## Education
+<h1><strong>  Education </h1></strong> 
 
-<b> San Diego State University, Fowler College of Business </b>                
-Master of Science, Information Systems, Candidate 
+<br> San Diego State University, Fowler College of Business </br>                
+<br> Master of Science, Information Systems, Candidate </br> 
 
 <b> Moscow Technological University, Cybernetics department </b>                                                   
 Master of Science, Applied Mathematics and Informatics,     GPA: 3.9                              
