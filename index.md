@@ -4,7 +4,7 @@ I am MSIS candidate 2020 with excellent ability to produce insights using statis
 techniques, as well as effective communication skills with both business and technical teams. 
  
 ![GitHub Logo](https://images-na.ssl-images-amazon.com/images/I/613ES-H4YKL._SX466_.jpg)
-Format: ![SDSU](https://images-na.ssl-images-amazon.com/images/I/613ES-H4YKL._SX466_.jpg)
+
  
 ## Education
 
