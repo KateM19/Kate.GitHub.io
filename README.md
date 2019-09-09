@@ -1,48 +1,71 @@
 # Kate.GitHub.io
-<h1><strong> Welcome to my page </h1></strong>
-<body>
-<br>I am MSIS candidate 2020 with excellent ability to produce insights using statistical procedures, data science 
-techniques, as well as effective communication skills with both business and technical teams.</br>
- 
-![GitHub Logo](https://images-na.ssl-images-amazon.com/images/I/613ES-H4YKL._SX466_.jpg)
-Format: ![Alt Text](https://images-na.ssl-images-amazon.com/images/I/613ES-H4YKL._SX466_.jpg)
- 
-<h1><strong>  Education </h1></strong> 
+This site is published at https://mingtsou.github.io/
 
-<br> San Diego State University, Fowler College of Business </br>                
-<br> Master of Science, Information Systems, Candidate </br> 
+Here is the Basic writing and formatting snytax for Markdown on Github.
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax#quoting-code
 
-<b> Moscow Technological University, Cybernetics department </b>                                                   
-Master of Science, Applied Mathematics and Informatics,     GPA: 3.9                              
-Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5 
+## Welcome to GitHub Pages
 
-I think you should use an
-`<addr>` element here instead.
+You can use the [editor on GitHub](https://github.com/mingtsou/mingtsou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-## Skills Summary
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-- SQL 
-- R 
-- Python 
-- HTML/PHP/CSS 
-- Data Visualization 
-- Statistical Learning 
-- Data Mining 
-- Data Analysis 
-- Windows Operating System 
-- Microsoft SQL Server 
-- Strong communicational skills 
-- Organizational/Management skills
- 
- 
+### Markdown
 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KateM19/Kate.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mingtsou/mingtsou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### How to Create a New Folder, called "Images"?
+
+Since Git index can only list "files", rather than "folders", you can not create an empty folder inside a Repo. You MUST create some files with a new folder first.  Here is the steps to create a new folder with a README markdown.
+
+1. go to the folder inside which you want to create another folder.
+2. click on New file.
+3. on the text field for the file name, first write the folder name you want to create, then type /README.md
+4. you can add more folders similarly.
 
 
-</body>
+### How to add a images in your Github.io webpage?
+
+1. If the images is from an external webpage, just use the following format.  However, if the Image source is from a HTTPS website (secured HTTP server), the image will not be displayed in the README directly.  But it will be displayed in the "Web Page" ( https://mingtsou.github.io/ ).
+
+```markdown
+![Image_Alternative_text](src or URL)
+
+![HDMA LOGO Saved In Local](/images/hdma2.png)
+![Image in HTTP link can be displayed in Github](http://mappingideas.sdsu.edu/images/2.jpg)
+![Image_in HTTPS link will not be displayed in Github](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
+```
+
+![HDMA LOGO Saved In Local](/images/hdma2.png)
+![Image in HTTP link can be displayed in Github](http://mappingideas.sdsu.edu/images/2.jpg)
+![Image_in HTTPS link will not be displayed in Github](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
+
+### How to delete a folder in Github?
