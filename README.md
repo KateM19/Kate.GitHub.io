@@ -1,6 +1,10 @@
 # Kate.GitHub.io
 <h1><strong> Welcome to my page </h1></strong>
 <body>
+ # This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+ 
 <br>I am MSIS candidate 2020 with excellent ability to produce insights using statistical procedures, data science 
 techniques, as well as effective communication skills with both business and technical teams.</br>
  
