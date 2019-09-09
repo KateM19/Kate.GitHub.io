@@ -1,10 +1,6 @@
 # Kate.GitHub.io
 <h1><strong> Welcome to my page </h1></strong>
 <body>
- # This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
- 
 <br>I am MSIS candidate 2020 with excellent ability to produce insights using statistical procedures, data science 
 techniques, as well as effective communication skills with both business and technical teams.</br>
  
@@ -20,7 +16,8 @@ Format: ![Alt Text](https://images-na.ssl-images-amazon.com/images/I/613ES-H4YKL
 Master of Science, Applied Mathematics and Informatics,     GPA: 3.9                              
 Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5 
 
-
+I think you should use an
+`<addr>` element here instead.
 
 ## Skills Summary
 
